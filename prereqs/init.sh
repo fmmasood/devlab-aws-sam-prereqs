@@ -4,4 +4,4 @@ sudo yum -y install git
 pip install --upgrade pip --user
 hash -r
 pip install --upgrade aws-sam-cli --user
-pip install awscli --upgrade--user
+pip install awscli --upgrade --user
